@@ -4,17 +4,16 @@
     "display_name": "Team Uber Cannon Color",
     "description": "Changes the Uber Canon Effects to your Team Color instead of blue",
     "author": "Fr33lancer,TrophySystem",
-    "version": "1.0.2",
-    "build": "67342",
-    "date": "2014/06/15",
+    "version": "2.0.0",
+    "build": "71937",
+    "date": "2014/09/11",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/rel-team-uber-cannon-color.60629/",
-	"icon": "http://pamods.github.io/icons/UberCannon.gif",
+	"icon": "http://i.imgur.com/vh8Wktf.gif",
     "category": [
 	  "in-game",
 	  "shader"
     ],
     "id": "TeamUberCannonColor",
-    "priority": 100,
-    "enabled": true
+    "priority": 100
 }
